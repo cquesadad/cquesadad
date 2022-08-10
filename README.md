@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cquesadad
-- 👀 I’m interested in UX/UI and Front End
-- 🌱 I’m currently learning VUE 3 and REACT JS
+- 👋 Hi, I’m @cquesadad (Carlos Quesada) 🇮🇨🇪🇸🇨🇺
+- 👀 I’m interested in UX/UI and Front-end Dev
+- 🌱 I’m currently learning REACT JS and VUE
 - 💞️ I’m looking to collaborate on REACT, VUE  and plugins for WooCommerce Projects
 - 📫 How to reach me info@cquesadad.es
 
